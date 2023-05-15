@@ -10,8 +10,9 @@ if(rockPaper){
 let opt=["rock","paper","scissors"]
 comp=opt[Math.floor(Math.random()*3)]
 
+
 }
-    }
+    
     else {
         alert(`only enter "rock" or "paper" or "scissors"`)
     }
